@@ -7,6 +7,5 @@
   <packaging>pom</packaging>
   <modules>
   	<module>dao</module>
-  	<module>web</module>
   </modules>
 </project>
